@@ -1,11 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 27, Monday
+### Day 1: June 3, Wednesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Created simple map using plotly to visualize income equality in the United States at the county layer
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Need to do additional work to clean the data and look into a couple dozen counties that appear to be outliers. Also need to work on cleaning up and customizing the visualization.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+No link yet.
