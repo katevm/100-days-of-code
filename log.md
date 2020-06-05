@@ -17,3 +17,12 @@ No link yet.
 
 **Link(s) to work**
 No link yet.
+
+### Day 3: June 5, Friday
+
+**Today's Progress**: Completed DataCamp tutorials on Data Manipulation using Pandas
+
+**Thoughts** Really cruised through the exercises until aggregating and counting, which is a real weak spot of mine.
+
+**Link(s) to work**
+https://campus.datacamp.com/courses/data-manipulation-with-pandas/
