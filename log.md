@@ -8,3 +8,12 @@
 
 **Link(s) to work**
 No link yet.
+
+### Day 2: June 4, Thursday
+
+**Today's Progress**: Explored different python libraries to interface with the U.S. Census Bureau's API. Primarily used CensusData to explore connections to the API
+
+**Thoughts** This whole API thing is a bit confusing. I think once I get a handle on a library and learn the parameters things will start to make more sense.
+
+**Link(s) to work**
+No link yet.
